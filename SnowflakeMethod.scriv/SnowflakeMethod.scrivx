@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="00311662-9040-4687-BFCF-D4711468BCDE" Creator="SCRWIN-3.1.1.0" Device="GlassHoryzen" Modified="2022-04-22 19:53:25 +0200" ModID="2C0D0D80-4F59-48C2-854C-EC286FD42B4E">
+<ScrivenerProject Template="No" Version="2.0" Identifier="00311662-9040-4687-BFCF-D4711468BCDE" Creator="SCRWIN-3.1.1.0" Device="GlassHoryzen" Modified="2022-04-22 20:18:51 +0200" ModID="4DC35E09-2C7E-4EFC-A01E-5976744ED24E">
     <Binder>
         <BinderItem UUID="029CB053-B6DD-4918-AD0F-4338574A92B9" Type="Folder" Created="2022-04-21 14:24:44 +0200" Modified="2022-04-21 20:32:37 +0200">
             <Title>Project Notes</Title>
@@ -10,7 +10,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="E7840B0D-BEBE-45FB-91D7-7C74AD915E40" Type="Text" Created="2022-04-21 14:15:04 +0200" Modified="2022-04-21 14:18:10 +0200">
+                <BinderItem UUID="E7840B0D-BEBE-45FB-91D7-7C74AD915E40" Type="Text" Created="2022-04-21 14:15:04 +0200" Modified="2022-04-22 20:16:04 +0200">
                     <Title>Acknowledgments</Title>
                     <MetaData>
                         <LabelID>8</LabelID>
@@ -18,10 +18,10 @@
                         <IconFileName>Reviewer Comments.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>396,0</TextSelection>
+                        <TextSelection>426,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3D492E82-6B94-4C98-871D-CF855D5725DE" Type="Text" Created="2022-04-21 14:14:15 +0200" Modified="2022-04-21 14:24:32 +0200">
+                <BinderItem UUID="3D492E82-6B94-4C98-871D-CF855D5725DE" Type="Text" Created="2022-04-21 14:14:15 +0200" Modified="2022-04-22 20:16:04 +0200">
                     <Title>Template notes</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -30,7 +30,7 @@
                         <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>642,0</TextSelection>
+                        <TextSelection>649,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="CFF4D41C-8E9E-44F3-B511-1CE17D489B1E" Type="Text" Created="2022-04-21 14:14:15 +0200" Modified="2022-04-21 14:26:05 +0200">
@@ -67,37 +67,42 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="CFDA9732-C92E-482E-972B-7DAE17A4D68D" Type="Text" Created="2022-04-21 14:47:52 +0200" Modified="2022-04-21 14:51:44 +0200">
+                        <BinderItem UUID="CFDA9732-C92E-482E-972B-7DAE17A4D68D" Type="Text" Created="2022-04-21 14:47:52 +0200" Modified="2022-04-22 20:09:37 +0200">
                             <Title>Welcome</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Lectern</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>526,19</TextSelection>
+                                <TextSelection Caret="7">0,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3735C575-E2D0-4065-BEAF-ED155FF79304" Type="Text" Created="2022-04-21 14:51:56 +0200" Modified="2022-04-21 19:03:35 +0200">
+                        <BinderItem UUID="3735C575-E2D0-4065-BEAF-ED155FF79304" Type="Text" Created="2022-04-21 14:51:56 +0200" Modified="2022-04-22 20:09:44 +0200">
                             <Title>Project</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Blackboard</IconFileName>
+                                <NotesTextSelection>233,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>123,0</TextSelection>
+                                <TextSelection>124,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F11DF8C7-7369-4F33-9066-ADC0F3678F7D" Type="Folder" Created="2022-04-21 18:43:50 +0200" Modified="2022-04-21 18:43:52 +0200">
+                        <BinderItem UUID="F11DF8C7-7369-4F33-9066-ADC0F3678F7D" Type="Folder" Created="2022-04-21 18:43:50 +0200" Modified="2022-04-22 20:09:20 +0200">
                             <Title>Authors</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Pencil</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="8B3F4093-15D5-4B06-BC10-2E14C9EE0F7E" Type="Text" Created="2022-04-21 19:01:32 +0200" Modified="2022-04-21 19:04:12 +0200">
+                                <BinderItem UUID="8B3F4093-15D5-4B06-BC10-2E14C9EE0F7E" Type="Text" Created="2022-04-21 19:01:32 +0200" Modified="2022-04-22 20:10:27 +0200">
                                     <Title>Define the Authors </Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>202,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>64,0</TextSelection>
@@ -107,37 +112,37 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="D2AD5F5D-3139-4956-8C63-ECA2761889C1" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-21 14:32:16 +0200">
+                <BinderItem UUID="D2AD5F5D-3139-4956-8C63-ECA2761889C1" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:11:03 +0200">
                     <Title>Step 1: One-Sentence Summary</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{△}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>351,0</NotesTextSelection>
+                        <NotesTextSelection>190,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0231A602-DCCF-4808-B769-145E6F873D55" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-21 14:32:16 +0200">
+                <BinderItem UUID="0231A602-DCCF-4808-B769-145E6F873D55" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:11:31 +0200">
                     <Title>Step 2: One paragraph</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{◻︎}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>279,0</NotesTextSelection>
+                        <NotesTextSelection>444,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="CD08224D-1D90-4BEF-B7D2-6C346100324A" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-21 20:25:41 +0200">
+                <BinderItem UUID="CD08224D-1D90-4BEF-B7D2-6C346100324A" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:12:24 +0200">
                     <Title>Step 3: Characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{◇}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>328,0</NotesTextSelection>
+                        <NotesTextSelection Caret="1946">0,1946</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -155,7 +160,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="C787F14D-0409-4360-9353-21FBF01B2DEC" Type="Text" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-22 19:43:20 +0200">
+                                <BinderItem UUID="C787F14D-0409-4360-9353-21FBF01B2DEC" Type="Text" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-22 20:12:37 +0200">
                                     <Title>Profile</Title>
                                     <MetaData>
                                         <LabelID>11</LabelID>
@@ -163,32 +168,32 @@
                                         <IconFileName>Characters (Photo).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1112,0</TextSelection>
+                                        <TextSelection Caret="700">571,129</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="29D4E0E2-5011-41AE-9C4D-1ACE971A49D0" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:42:08 +0200">
+                <BinderItem UUID="29D4E0E2-5011-41AE-9C4D-1ACE971A49D0" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:13:08 +0200">
                     <Title>Step 4: Grow the Story</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{✩}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>814,0</NotesTextSelection>
+                        <NotesTextSelection>472,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A63F942F-B274-4F6B-BEC4-A97ECA2435E7" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:40:54 +0200">
+                <BinderItem UUID="A63F942F-B274-4F6B-BEC4-A97ECA2435E7" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:13:19 +0200">
                     <Title>Step 5: Character Stories</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{✶}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>786,0</NotesTextSelection>
+                        <NotesTextSelection Caret="786">0,786</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -205,13 +210,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="E84A1051-9240-4E8F-8B74-110EE30FF25E" Type="Text" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-21 19:13:38 +0200">
+                                <BinderItem UUID="E84A1051-9240-4E8F-8B74-110EE30FF25E" Type="Text" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-22 20:15:00 +0200">
                                     <Title>Synopsis</Title>
                                     <MetaData>
                                         <LabelID>12</LabelID>
                                         <StatusID>0</StatusID>
-                                        <IconFileName>Notes (White Notepad).tiff</IconFileName>
-                                        <NotesTextSelection Caret="198">27,171</NotesTextSelection>
+                                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                                        <NotesTextSelection Caret="786">0,786</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -222,43 +227,45 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="BFFECC4D-C325-4F54-8F1E-A3C7421FFC77" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:40:01 +0200">
+                <BinderItem UUID="BFFECC4D-C325-4F54-8F1E-A3C7421FFC77" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:14:00 +0200">
                     <Title>Step 6: Expand Plot</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{✷}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>453,0</NotesTextSelection>
+                        <NotesTextSelection>123,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F090CA00-8172-44EE-881C-79DAACDE90E9" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:47:29 +0200">
+                <BinderItem UUID="F090CA00-8172-44EE-881C-79DAACDE90E9" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:14:11 +0200">
                     <Title>Step 7: Expand Characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{✸}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>1137,0</NotesTextSelection>
+                        <NotesTextSelection>0,1137</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>118,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B7762F12-7070-4137-9D08-D49DABE776C7" Type="Folder" Created="2022-04-22 19:47:48 +0200" Modified="2022-04-22 19:48:05 +0200">
+                        <BinderItem UUID="B7762F12-7070-4137-9D08-D49DABE776C7" Type="Folder" Created="2022-04-22 19:47:48 +0200" Modified="2022-04-22 20:14:45 +0200">
                             <Title>Character name</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Mask)</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="111EC813-7435-4BA4-A1B6-CC5B15A88A56" Type="Text" Created="2022-04-22 19:48:08 +0200" Modified="2022-04-22 19:52:29 +0200">
+                                <BinderItem UUID="111EC813-7435-4BA4-A1B6-CC5B15A88A56" Type="Text" Created="2022-04-22 19:48:08 +0200" Modified="2022-04-22 20:14:52 +0200">
                                     <Title>Full Description</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Characters (Character Sheet)</IconFileName>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1341,0</TextSelection>
@@ -268,12 +275,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="D0791580-FA22-4186-87D2-44A712451A8A" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 18:07:37 +0200">
+                <BinderItem UUID="D0791580-FA22-4186-87D2-44A712451A8A" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:15:14 +0200">
                     <Title>Step 8: Scenes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{✹}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection Caret="1695">0,1695</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -289,37 +297,37 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="9F4EF1D4-D16F-45C5-A04C-3AECC2806DA3" Type="Text" Created="2022-04-22 18:09:28 +0200" Modified="2022-04-22 18:16:39 +0200">
+                                <BinderItem UUID="9F4EF1D4-D16F-45C5-A04C-3AECC2806DA3" Type="Text" Created="2022-04-22 18:09:28 +0200" Modified="2022-04-22 20:17:30 +0200">
                                     <Title>Scene</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>157,0</TextSelection>
+                                        <TextSelection>145,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="C630CD39-50F0-4AA0-B110-8C0AA61E5ADD" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 17:57:34 +0200">
+                <BinderItem UUID="C630CD39-50F0-4AA0-B110-8C0AA61E5ADD" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:17:36 +0200">
                     <Title>Step 9: (Optional) Expand Scenes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{❅}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection>526,0</NotesTextSelection>
+                        <NotesTextSelection>644,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3529C799-4326-45D3-A7DA-E5AF04F5C550" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 17:57:44 +0200">
+                <BinderItem UUID="3529C799-4326-45D3-A7DA-E5AF04F5C550" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:18:08 +0200">
                     <Title>Step 10: Write It</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{❄️}</IconFileName>
-                        <NotesTextSelection>343,0</NotesTextSelection>
+                        <NotesTextSelection>1036,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -417,7 +425,7 @@
                                 <IconFileName>Locations (Location Sheet)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,15</TextSelection>
+                                <TextSelection>29,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -728,13 +736,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-04-20 20:28:46 +0200" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="280" Characters="2691" Date="2022-04-22 19:53:25 +0200"/>
+        <PreviousSession Words="355" Characters="3220" Date="2022-04-22 20:18:51 +0200"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-04-22 00:00:00 +0200">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>280</OtherWordCount>
-        <OtherCharCount>2691</OtherCharCount>
+        <OtherWordCount>288</OtherWordCount>
+        <OtherCharCount>2808</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Landscape" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

@@ -1,1 +1,10 @@
 Individuals that affect, or are effected by, the story.
+
+For each characters take one hour and write a character sheet that contains the following information:
+- name
+- one-sentence summary of character’s storyline
+- motivation
+- goal
+- conflict (prevents him/her from reaching goal)
+- epiphany (what the character learns about him/herself, how he/she changes)
+- one-paragraph summary 

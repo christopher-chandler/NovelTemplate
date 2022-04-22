@@ -3,11 +3,20 @@
     <Documents>
         <Document ID="0231A602-DCCF-4808-B769-145E6F873D55">
             <Title>Step 2: One paragraph</Title>
-            <Notes>Expand from your one-sentence story idea into one short paragraph that describes very roughly how events are going to unfold.
+            <Synopsis>Expand from your one-sentence story idea into one short paragraph that describes very roughly how events are going to unfold.
 
 This can be in a 3-act-structure if you want.
 
-You can also follow the example from Randy Ingermanson and try to find “three disasters” plus an ending”.</Notes>
+You can also follow the example from Randy Ingermanson and try to find “three disasters” plus an ending”.</Synopsis>
+            <Notes> Take another hour and expand your one-sentence summary to a full paragraph describing the story setup, major disasters, and ending of the novel. This is the analog of the second stage of the snowflake. I like to structure a story as “three disasters plus an ending.” Each of the disasters takes a quarter of the book to develop and the ending takes the final quarter. I don’t know if this is the ideal structure, it’s just my personal taste. 
+If you believe in the Three-Act Structure, then the first disaster corresponds to the end of Act 1. The second disaster is the mid-point of Act 2. The third disaster is the end of Act 2, and forces Act 3 which wraps things up. It is OK to have the first disaster be caused by external circumstances, but I think that the second and third disasters should be caused by the protagonist’s attempts to “fix things”. Things just get worse and worse. 
+You can ultimately use this paragraph in your proposal. I recommend that you write a paragraph with five sentences: 
+The first sentence tells the backdrop and story setup. 
+The second sentence explains the beginning up to the first disaster. 
+The third sentence describes the first half of the middle, up to the second disaster. 
+The fourth sentence describes the second half of the middle, up to the third disaster. 
+The fifth sentence explains the ending. 
+If you’d like to see some examples of one-paragraph summaries, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. You’ll find a complete explanation of the theory of the Three-Act Structure in chapter 8 of my book Writing Fiction for Dummies. </Notes>
         </Document>
         <Document ID="029CB053-B6DD-4918-AD0F-4338574A92B9">
             <Title>Project Notes</Title>
@@ -17,6 +26,146 @@ You can also follow the example from Randy Ingermanson and try to find “three 
         </Document>
         <Document ID="111EC813-7435-4BA4-A1B6-CC5B15A88A56">
             <Title>Full Description</Title>
+            <Text>Schriftsteller-werden.de                                                                                Charakterbogen
+Side 1 from 3
+Character Arc of: 
+Schriftsteller-werden.de
+Jacqueline Vellguth
+The First Impression
+
+Appearance: 
+Effect: 
+Character: 
+Luck: 
+
+
+Appear
+
+Attitude: 
+Clothing: 
+Language/Voice: 
+Jewellery: 
+Always with you: 
+Characteristics: 
+
+
+Motivation
+
+Meaning of life: 
+Long-distance destinations: 
+Nahziele: 
+Dreams: 
+
+
+Internal conflict
+
+Charaktermerkmale
+
+Status
+
+Occupation: 
+Social: 
+Income: 
+Social: 
+
+
+Body
+
+Age: 
+Body hair: 
+Size: 
+Hair color: 
+Weight: 
+Hairdo: 
+Physique: 
+Eye color: 
+Reaction: 
+Face: 
+Starch: 
+Characteristics: 
+High: 
+Effect: 
+
+Spirit
+
+Logic: 
+Willpower: 
+Intuition: 
+Persuasiveness: 
+
+
+Likes VS Dislikes
+
+Traits: 
+Interests: 
+Favorite: 
+Moral: 
+Eat: 
+Aversions: 
+Entertainment: 
+Hobbies: 
+
+
+Friends and family
+
+Mother: 
+Friends: 
+Father: 
+Partner: 
+Sibling: 
+Other: 
+
+
+Foes
+Opponent: 
+Unpleasant: 
+Neutren: 
+
+Abilities (mind and body)
+That's great: 
+Very good: 
+Good: 
+Okay: 
+Medium: 
+Somewhat: 
+A little bit: 
+Not at all: 
+Incapable: 
+Apartment
+
+
+
+Typical places
+
+
+
+
+
+Past
+Facts
+Birthday: 
+Place of birth: 
+Residence: 
+
+Changes
+Childhood: 
+Adolescent: 
+
+Adult: 
+
+
+Know
+School/Education: 
+Occupation: 
+Hobbies: 
+Teacher: 
+
+Social environment
+Former friends: 
+Ex-Partner: 
+Previous enemies: 
+
+</Text>
         </Document>
         <Document ID="14D16CA0-F8A1-4B96-A7EC-D54ABE9F899D">
             <Title>Planetary classifications</Title>
@@ -334,10 +483,27 @@ Your Target Reader:
 
 
 </Text>
+            <Notes>Snowflake Pro will help you define the book you’re writing and then it’ll help you write your book proposal. 
+It’s important for you to know what category your book fits in. Here is a list of the common major categories of fiction: 
+
+Romance/Women’s Fiction 
+Thriller 
+Mystery/Crime 
+Science Fiction &amp; Fantasy 
+Horror 
+General/Literary 
+Inspirational 
+Young Adult 
+Children 
+Each of these major categories has many sub-categories. Do you know yours? If not, now is a good time to research what category and sub-category you want to fit into. The bookstore is going to need to know what shelf to put your book on! If your publisher doesn’t tell them, they won’t waste time trying to guess. So you need to tell your publisher what to tell the bookstores. 
+
+It’s also a good idea to have a target word count for your novel. Some categories have strict limits on word count and some are not so strict. A common length for an adult novel is 80,000 to 100,000 words. Find out what a typical word count is for books in your category before you write your novel. You’d hate to learn too late that your book is far too long or far too short! 
+
+Finally, it’s always wise to have some kind of idea what sort of reader you’re hoping to read your book. No book will appeal to everyone. Yours will interest some readers and will bore others. Your publisher will want to know so they can create a cover for the kind of reader most likely to love your book. Help them out by describing your target reader now. </Notes>
         </Document>
         <Document ID="3D492E82-6B94-4C98-871D-CF855D5725DE">
             <Title>Template notes</Title>
-            <Text>Template notes
+            <Text>Template Notes
 Version 0.0.1 – Last updated 21 April 2022
 This is very much a work-in-progress. If you’re interested in future updates, keep an eye on my github account (https://github.com/christopher-chandler). Please, also feel free to drop me a line, my contact details are at the end of the document.
 
@@ -346,7 +512,7 @@ Each task represents a step in the Snowflake method. If you haven’t heard of t
 
 And finally…
 …if you have any great ideas, or know of any excellent templates, please let me know! I love templates (and organising and chocolate-coated peanuts :))
-( https://github.com/christopher-chandler| christopher.chandler@outlook.de)</Text>
+( https://github.com/christopher-chandler christopher.chandler@outlook.de)</Text>
         </Document>
         <Document ID="5B4EE125-908A-4B29-8BBE-D26323EC162A">
             <Title>Character name</Title>
@@ -391,7 +557,6 @@ Your dedication here.</Text>
 
 
 
-
 Name:
 
 Address:
@@ -402,7 +567,23 @@ E-mail:
 
 Bio:
 
+
 </Text>
+            <Notes>When you write a proposal for your book, you’ll need to tell the publisher a bit about yourself. The usual kind of information you need to give them is: 
+Your full legal name (this will go on your contract) 
+Your mailing address (so they’ll know where to send your contract) 
+Your phone number 
+Your e-mail address 
+Your “author bio” — a biography of a few paragraphs that tells some interesting facts about you and why you’re the best person in the world to write your novel. Some points to ponder:
+If you are especially similar to your target reader, that’s crucial to mention. 
+Your educational background may be important, if it says something about your ability to write your book. 
+If you have very specialized knowledge, mention it here. For example:
+If you’re writing a time-travel novel and you’re a physicist, say so. 
+If you’re writing a romance novel set in Norway and you speak Norwegian, say so. 
+If you’re writing a legal thriller and work in the legal profession, say so. 
+Any life experience you have that is relevant to your novel is important to mention here. (Your publisher may use it to try to get newspaper/radio/TV interviews for you.) 
+This is not the place to talk about how much your mother loves your book or about how you’ve been an avid reader since you were five years old. (Publishers assume both of these are true.) 
+Keep your bio short — no more than a few paragraphs — and put your best foot forward, but don’t lie. Lies will catch up with you sooner or later, and it can be ugly if they don’t catch up on you until you’re exceedingly famous. </Notes>
         </Document>
         <Document ID="8E552E62-DC9F-4CE1-A665-072EC64A0BAD">
             <Title>Chapter 1</Title>
@@ -668,19 +849,33 @@ Character’s personal history.</Text>
         </Document>
         <Document ID="CD08224D-1D90-4BEF-B7D2-6C346100324A">
             <Title>Step 3: Characters</Title>
-            <Synopsis>Individuals that affect, or are effected by, the story.</Synopsis>
-            <Notes>For each characters take one hour and write a character sheet that contains the following information:
+            <Synopsis>Individuals that affect, or are effected by, the story.
+
+For each characters take one hour and write a character sheet that contains the following information:
 - name
 - one-sentence summary of character’s storyline
 - motivation
 - goal
 - conflict (prevents him/her from reaching goal)
 - epiphany (what the character learns about him/herself, how he/she changes)
-- one-paragraph summary </Notes>
+- one-paragraph summary </Synopsis>
+            <Notes>In the first two steps of the Snowflake method, you’ve worked out a high-level view of your novel. Now you need something similar for the storylines of each of your characters. Characters are the most important part of any novel, and the time you invest in designing them up front will pay off ten-fold when you start writing. For each of your major characters, take an hour and write a one-page summary sheet that tells: 
+The character’s name 
+The character’s Ambition (what does he/she want abstractly?) 
+The character’s Storygoal (what does he/she want concretely?) 
+The character’s conflict (what prevents him/her from reaching this goal?) 
+The character’s epiphany (what will he/she learn, how will he/she change? 
+A one-sentence summary of the character’s Storyline 
+A one-paragraph summary of the character’s storyline 
+An important point: You may find that you need to go back and revise your one-sentence summary and/or your one-paragraph summary. Go ahead! This is good — it means your characters are teaching you things about your story. It’s always okay at any stage of the design process to go back and revise earlier stages. In fact, it’s not just okay — it’s inevitable. And it’s good. Any revisions you make now are revisions you won’t need to make later on to a clunky 400 page manuscript. 
+Another important point: It doesn’t have to be perfect. The purpose of each step in the design process is to advance you to the next step. Keep your forward momentum! You can always come back later and fix it when you understand the story better. You will do this too, unless you’re a lot smarter than I am. 
+If you’d like to see some examples of character definitions, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. You may also find it useful to study up on what makes a compelling character in chapter 7 of my book Writing Fiction for Dummies. </Notes>
         </Document>
         <Document ID="CFDA9732-C92E-482E-972B-7DAE17A4D68D">
             <Title>Welcome</Title>
-            <Text>Good fiction doesn't just happen, it is designed. You can do the design work before or after you write your novel. I've done it both ways and I've found that doing it first is quicker and leads to a better result for me. But you may find that doing your design after you write your novel works better for you. It doesn't really matter when you do your design work, as long as you do it. Design is hard work, so it's important to find a guiding principle early on. This software uses a powerful metaphor to guide your design.
+            <Text>Welcome
+
+Good fiction doesn't just happen, it is designed. You can do the design work before or after you write your novel. I've done it both ways and I've found that doing it first is quicker and leads to a better result for me. But you may find that doing your design after you write your novel works better for you. It doesn't really matter when you do your design work, as long as you do it. Design is hard work, so it's important to find a guiding principle early on. This software uses a powerful metaphor to guide your design.
 
 - Randy Ingermanson</Text>
         </Document>
@@ -704,11 +899,19 @@ My spreadsheets usually wind up being over 100 lines long, one line for each sce
         </Document>
         <Document ID="D2AD5F5D-3139-4956-8C63-ECA2761889C1">
             <Title>Step 1: One-Sentence Summary</Title>
-            <Notes>Write a one-sentence summary of your story.
+            <Synopsis>Write a one-sentence summary of your story.
 
 The point here is to be short, precise, and find a sentence that encapsulates your story idea in one short sentence.
 
-It is the sentence that you can always come back to and everything that you write from this point on should be a fulfillment of the idea that is represented by this one sentence core idea.</Notes>
+It is the sentence that you can always come back to and everything that you write from this point on should be a fulfillment of the idea that is represented by this one sentence core idea.</Synopsis>
+            <Notes>Take an hour and write a “Storyline” — a one-sentence summary of your novel. Something like this: “A rogue physicist travels back in time to kill the apostle Paul.” (This is the summary for my first novel, Transgression.) Your Storyline will serve you forever as a ten-second selling tool. This is the big picture, the analog of that big starting triangle in the snowflake picture. 
+When you write your book proposal, this Storyline should appear very early in the proposal. It’s the hook that will sell your book to your editor, to your publishing committee, to the sales force, to bookstore owners, and ultimately to readers. So make it the best one you can! 
+Some hints on what makes a good Storyline: 
+Shorter is better. Try for fewer than 15 words. 
+No character names, please! Better to say “a handicapped trapeze artist” than “Jane Doe”. 
+Tie together the big picture and the personal picture. Which character has the most to lose in this story? Now tell me what he or she wants to win. 
+Read the one-line blurbs on the New York Times Bestseller list to learn how to do this. Writing a one-sentence description is an art form. 
+If you’d like to see some examples of Storylines, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. If you want even more examples, you can find about 20 of them in chapter 8 of my book Writing Fiction for Dummies. </Notes>
         </Document>
         <Document ID="D2D90AA1-E80E-4CCA-98F6-7AEECE20AA41">
             <Title>Planet</Title>
@@ -816,32 +1019,37 @@ During Compile, documents assigned the “Front Matter” section type will be l
         </Document>
         <Document ID="E7840B0D-BEBE-45FB-91D7-7C74AD915E40">
             <Title>Acknowledgments</Title>
-            <Text>This template was created from, and inspired by, the wonderful and freely distributed work of the following people.
+            <Text>Acknowledgements
+This template was created from, and inspired by, the wonderful and freely distributed work of the following people.
 A copy of these acknowledgments can also be found in Project -&gt; Project Notes -&gt; Acknowledgments, in case you’d like to delete this but retain the links for later reference.
+
+Snowflake method
+How to write a novel using the Snowflake method by Randy Ingermanson from AdvancedFictionWriting.com (www.advancedfictionwriting.com/art/snowflake.php)
 
 Scrivener Snowflake Templates
 https://belindacrawford.com/2012/11/22/scrivener-templates-for-you-and-me/
 https://www.belalampert.com/snowflake-method-scrivener/
 
-Snowflake method
-How to write a novel using the Snowflake method by Randy Ingermanson from AdvancedFictionWriting.com (www.advancedfictionwriting.com/art/snowflake.php)
 
 Project template
 Snowflake template by Roelani from WordInProgress.com(http://wordinprogress.com/2010/04/technology/scrivener-tutorial-how-i-write)
 
-</Text>
+Character Form
+https://schriftsteller-werden.de/charakterentwicklung/charaktere-erschaffen/</Text>
         </Document>
         <Document ID="E84A1051-9240-4E8F-8B74-110EE30FF25E">
             <Title>Synopsis</Title>
-            <Notes>Snowflake method – Step 5
-
-Write a character synopsis that tells the story from the point of view of the character.
+            <Synopsis>Write a character synopsis that tells the story from the point of view of the character.
 
 Major characters
 one page or 600 words
 
 Minor characters
-half a page or 300 words</Notes>
+half a page or 300 words</Synopsis>
+            <Notes>Take a day or two and write up a one-page description of each major character and a half-page description of the other important characters. These “character synopses” should tell the story from the point of view of each character. 
+As always, feel free to cycle back to the earlier steps and make revisions as you learn cool stuff about your characters. I usually enjoy this step the most. I find it effective to put the resulting “character synopses” into my proposals in addition to a plot-based synopsis. 
+Editors love character synopses, because editors love character-based fiction. 
+If you’d like to see some examples of character synopses, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. </Notes>
         </Document>
         <Document ID="F0607CA9-E345-48A0-BAB3-FAC6C7665B52">
             <Text>
