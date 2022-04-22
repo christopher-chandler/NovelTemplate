@@ -1,47 +1,818 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="0231A602-DCCF-4808-B769-145E6F873D55">
+            <Title>Step 2: One paragraph</Title>
+            <Notes>Expand from your one-sentence story idea into one short paragraph that describes very roughly how events are going to unfold.
+
+This can be in a 3-act-structure if you want.
+
+You can also follow the example from Randy Ingermanson and try to find “three disasters” plus an ending”.</Notes>
+        </Document>
+        <Document ID="029CB053-B6DD-4918-AD0F-4338574A92B9">
+            <Title>Project Notes</Title>
+        </Document>
+        <Document ID="0539AF82-F916-4073-8E96-CC884700718E">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="111EC813-7435-4BA4-A1B6-CC5B15A88A56">
+            <Title>Full Description</Title>
+        </Document>
+        <Document ID="14D16CA0-F8A1-4B96-A7EC-D54ABE9F899D">
+            <Title>Planetary classifications</Title>
+            <Text>Planetary classifications
+
+Class A, B and C 
+Typically small, young planets whose class depends on their age and solidity of their cores.
+
+Class D 
+Class D objects are planetoids like asteroids and some moons. Regula, the site of the underground second stage of the Genesis experiment in Star Trek II: The Wrath of Khan, is a Class D planetoid. The USS Voyager also encountered Class D planets in the Delta Quadrant, one in the Star Trek: Voyager episode &quot;Gravity&quot; and one in the episode &quot;Emanations&quot;.
+
+Class E, F and G 
+Typically, Proto-Earth-sized planets whose class depends on their age and solidity of their cores.
+
+Class H 
+Class H planets appear in the series as harsh desert worlds. The planet Tau Cygna V visited by the USS Enterprise-D in the Star Trek: The Next Generation episode &quot;The Ensigns of Command&quot; was designated as a Class H world.
+
+Class I 
+Class of gas giant, larger than Class J, and smaller than Class S and T.
+
+Class J and T 
+Class J and Class T planets are gas giants. Class J are smaller than Class T which are considered &quot;super&quot;, or &quot;ultra&quot;, gas giants. In the Star Trek: Deep Space Nine episode &quot;Starship Down&quot;, the USS Defiant enters the atmosphere of a Class J gas giant to rescue the crew of a Karemman ship attacked by the Jem'Hadar. The USS Voyager encounters a Class T Super-Giant in the Delta Quadrant with &quot;radiogenic&quot; rings in the Voyager episode &quot;Good Shepherd&quot;.
+
+Class K 
+Class K planets are barren worlds with no native life. However, through terraforming, they can be made into Class M worlds. In the original Star Trek series episode &quot;I, Mudd&quot;, the planet Mudd was designated in dialogue as Class K.
+
+Class L 
+Class L planets are barely habitable worlds with primitive ecosystems. In &quot;The Chase&quot;, the planet Indri VIII is indicated in dialogue as Class L. In &quot;The 37s&quot;, the planet on which Amelia Earhart and others are stranded is a Class L planet with an oxygen–argon atmosphere. In &quot;Muse&quot;, the planet on which B'Elanna Torres' shuttle crash lands is described as a Class L planet, which also supports Bronze Age humanoid life. In &quot;Timeless&quot;, the USS Voyager' crashes into a Class L planet with an arctic climate. In &quot;The Ascent&quot;, Quark and Odo crash-land on a desolate Class L planet.
+
+Class N 
+Class N planets have a reducing environment and are barren and rocky with extremely high surface temperatures caused by thick atmospheres containing carbon dioxide and corrosive sulfides. In &quot;Night Terrors&quot;, Class N environments were mentioned as the ideal places to use oxidizer-free explosives. The Tholian are said to have come from an N Class planet in the Star Trek: The Lost Era book The Sundred. The game Star Trek: The Next Generation - A Final Unity mentions that Class N planets are more related to Class M with the key difference being a higher ratio of water to land.
+
+Class O and P 
+Planets covered almost completely with water (class O), or water–ice (Class P).
+
+Class Q 
+Planets with continually changing environments caused by peculiar orbits, an orbit around a variable output star, or some other factor which causes conditions to drastically change over time.
+
+Class R 
+A rogue planetary body, which is one that does not orbit a star but drifts freely in space. However, not all rogue planets are classified as Class R; for instance, in Star Trek: Deep Space 9 episode &quot;The Search&quot;, the Founders homeworld in the Omarion Nebula is referred to as a &quot;rogue&quot; Class M planet. But this is probably a rare situation as most planets that don't belong to a star system would not be able to support life.
+
+Class S 
+Class of gas giant smaller than Class T and the next larger size up from Class I.
+
+Class T 
+The largest class of gas giant. Smaller gas giants are, in order of decreasing size, Class S, I, and finally J.
+
+Class Y 
+Class Y planets are referred to as &quot;Demon&quot; worlds, where surface conditions do not fall into any other recognized category. Such worlds are usually hostile and lethal to humanoid life. If life develops on these worlds they usually take on many bizarre forms, like living crystal or rock, liquid or gaseous physical states, or incorporeal, dimensional, or energy-based states. In the series, examples of Class Y &quot;Demon&quot; planets include Tholia, the &quot;Silver Blood&quot; planet discovered by the USS Voyager in the Delta Quadrant in the episode &quot;Demon&quot; and later mentioned in &quot;Course: Oblivion&quot;, and the home world of the incorporeal Medusans.
+
+Class X and Z 
+Reserved for other designations of &quot;demon&quot; planets.</Text>
+            <Notes>This is a fictional planetary classification system, used in the Star Trek franchise.
+
+There doesn’t appear to be a real world version.</Notes>
+        </Document>
+        <Document ID="15F76DF0-4631-40EF-B4C8-ED4ACF4CB9F2">
+            <Title>Cover</Title>
+        </Document>
+        <Document ID="16B352A5-C214-4F19-B453-50F848D2D2D6">
+            <Title>Paperback</Title>
+        </Document>
+        <Document ID="17BA66F4-11F0-48BF-AB2A-068AD3B8D335">
+            <Title>Preliminary Stage</Title>
+        </Document>
+        <Document ID="1D584A09-2D1A-4E4A-8C41-51C329E5D38B">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+Insert dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="2131D423-03C4-481E-8A96-DD2AA3C5542F">
+            <Title>References</Title>
+        </Document>
+        <Document ID="250736B3-05F7-433A-99E1-424983451B84">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+Location
+
+Role in Story
+
+
+Related Characters
+
+
+Season
+
+
+Unique Features
+
+
+Description
+
+
+Sights
+
+
+Sounds
+
+
+Smell
+
+
+Notes
+
+</Text>
+        </Document>
+        <Document ID="29D4E0E2-5011-41AE-9C4D-1ACE971A49D0">
+            <Title>Step 4: Grow the Story</Title>
+            <Synopsis>Turn each sentence of your summary paragraph into a full paragraph.
+
+Every chapter (except the last) should end in a disaster.
+
+The end of the final chapter is the end of the book (obviously).
+
+</Synopsis>
+            <Notes>If you’ve done the first three steps, you should have a good idea of the large-scale structure of your novel. So now just keep growing the story. 
+Take several hours and expand each sentence of your summary paragraph into a full paragraph. All but the last paragraph should end in a disaster. The final paragraph should tell how the book ends. Write this in present tense, like this: “Jack sells his cow in town for some magic beans. When he comes home, his mother throws the beans out the window . . .” 
+This is a lot of fun, and at the end of the exercise, you have a pretty decent one-page skeleton of your novel, which we’ll call a short synopsis. It’s okay if you can’t get it all onto one single-spaced page. What matters is that you are growing the ideas that will go into your story. You are expanding the conflict. 
+Later, you can expand this into a synopsis suitable for a proposal, or you may find that this is all the synopsis you need. You can decide that question later. 
+If you’d like to see some examples of short synopses, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. I have a thorough discussion on writing synopses in chapter 9 of my book Writing Fiction for Dummies.</Notes>
+        </Document>
+        <Document ID="2ECE04E8-F837-4AF2-BF73-C6932A9F6018">
+            <Title>Profile</Title>
+            <Text>Name, Title/rank
+AKA
+
+Summary
+A one-paragraph summary of the character's storyline, motivation and description. Loosely based on what you will write from the snowflake steps. 
+
+One-sentence summary
+A one-sentence summary of the character's storyline
+
+Motivation
+The character's motivation (what does he/she want abstractly?)
+
+Goal
+The character's goal (what does he/she want concretely?)
+
+Conflict
+The character's conflict (what prevents him/her from reaching this goal?)
+
+Epiphany
+The character's epiphany (what will he/she learn, how will he/she change?
+ 	
+
+Basics
+
+
+Age
+Gender
+Species
+Height
+Hair colour
+Complexion
+Nationality
+
+
+
+
+
+
+
+Date of birth
+Place of birth
+Race/subspecies
+Weight
+Eye colour
+Handedness
+Ethnic group
+
+
+
+
+
+Right/left
+
+
+
+Family
+
+
+Marital status
+Spouse(s)/partner(s)
+Children
+Biological father
+Biological mother
+Siblings
+
+
+
+
+
+
+
+
+Social
+
+
+Citizenship
+Social status
+Job/career
+Position/role
+Rank
+
+
+Fugitive, criminal, up-standing member of the public, etc.
+
+
+
+
+
+
+Skills, hobbies, talents and languages
+
+
+Skills
+Hobbies
+Talents/gifts
+
+Languages
+
+
+
+
+
+
+
+Physical description
+Physical description.
+
+Personality
+Character’s personality.
+
+Likes/dislikes
+Character’s likes, dislikes and pet peeves.
+
+Personal history
+Character’s personal history.</Text>
+        </Document>
+        <Document ID="30141E83-90B8-466E-A7E6-1BA16C6EB21F">
+            <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>
+&lt;$surname&gt; &lt;$lastname&gt;
+Your Address
+Your phone number
+Your e-mail address
+
+(Your agent’s name)
+(Your agent’s address)
+&lt;$wc100&gt; words.
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>This is the title page of the manuscript. Note that its “Section Type” is automatically set to “Front Matter” in the Metadata pane of the Inspector, allowing the title page to be formatted differently from body text during Compile.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from Contacts when the project is created.
+
+The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the nearest 100 during Compile (this and other tags can be inserted from the Insert menu).
+
+Feel free to edit the text of the title page as required.</Notes>
+        </Document>
+        <Document ID="30749BB1-EF73-4110-B6B1-06D3724121F2">
+            <Title>Manuscript Format</Title>
+        </Document>
+        <Document ID="330AFD0A-2738-4B6D-BF87-45EAE0BE829E">
+            <Title>Character name</Title>
+            <Synopsis>Individuals that affect, or are effected by, the story.</Synopsis>
+        </Document>
+        <Document ID="3529C799-4326-45D3-A7DA-E5AF04F5C550">
+            <Title>Step 10: Write It</Title>
+            <Notes> At this point, just sit down and start pounding out the real first draft of the novel. You will be astounded at how fast the story flies out of your fingers at this stage. I have seen writers triple their fiction writing speed overnight, while producing better quality first drafts than they usually produce on a third draft.
+You might think that all the creativity is chewed out of the story by this time. Well, no, not unless you overdid your analysis when you wrote your Snowflake. This is supposed to be the fun part, because there are many small-scale logic problems to work out here. How does Hero get out of that tree surrounded by alligators and rescue Heroine who’s in the burning rowboat? This is the time to figure it out! But it’s fun because you already know that the large-scale structure of the novel works. So you only have to solve a limited set of problems, and so you can write relatively fast.
+This stage is incredibly fun and exciting. I have heard many fiction writers complain about how hard the first draft is. Invariably, that’s because they have no clue what’s coming next. Good grief! Life is too short to write like that! There is no reason to spend 500 hours writing a wandering first draft of your novel when you can write a solid one in 150. Counting the 100 hours it takes to do the design documents, you come out way ahead in time.
+About midway through a first draft, I usually take a breather and fix all the broken parts of my design documents. Yes, the design documents are not perfect. That’s okay. The design documents are not fixed in concrete, they are a living set of documents that grows as you develop your novel. If you are doing your job right, at the end of the first draft you will laugh at what an amateurish piece of junk your original design documents were. And you’ll be thrilled at how deep your story has become.</Notes>
+        </Document>
+        <Document ID="3735C575-E2D0-4065-BEAF-ED155FF79304">
+            <Title>Project</Title>
+            <Synopsis>Define your novel in this section</Synopsis>
+            <Text>
+Your Project Definition
+
+
+Title of your novel:
+
+Subtitle:
+
+Category of Book:
+
+Expected Word Count: 
+
+Your Target Reader:
+
+
+</Text>
+        </Document>
         <Document ID="3D492E82-6B94-4C98-871D-CF855D5725DE">
             <Title>Template notes</Title>
             <Text>Template notes
-Version 0.7 – Last updated 24 December 2012
-This is very much a work-in-progress. If you’re interested in future updates, keep an eye on my blog or join my mailing list (www.belindacrawford.com). Please, also feel free to drop me a line, my contact details are at the end of the document.
+Version 0.0.1 – Last updated 21 April 2022
+This is very much a work-in-progress. If you’re interested in future updates, keep an eye on my github account (https://github.com/christopher-chandler). Please, also feel free to drop me a line, my contact details are at the end of the document.
 
 FYI
 Each task represents a step in the Snowflake method. If you haven’t heard of the Snowflake method or would like to brush up on it, you can do so here www.advancedfictionwriting.com/art/snowflake.php. For your convenience, there are notes, copied directly from the aforementioned website, in the Document Notes section of each task.
-A number of the template sheets have document references. Follow these links for information about things like systems of government and planetary classifications.
-In Project References (View -&gt; Inspect -&gt; References and use cmd+6 to toggle between document and project refs) you will find links to:
-writing military science fiction
-world-building
-a comprehensive bestiary of the creatures, races and beings.
-
-Coming, at some point…
-Template sheets
-City
-Updated Location sheet
-Guild/company
-Religious group
 
 And finally…
 …if you have any great ideas, or know of any excellent templates, please let me know! I love templates (and organising and chocolate-coated peanuts :))
-( www.belindacrawford.com | belinda@belindacrawford.com | twitter @belindacrawford )</Text>
+( https://github.com/christopher-chandler| christopher.chandler@outlook.de)</Text>
+        </Document>
+        <Document ID="5B4EE125-908A-4B29-8BBE-D26323EC162A">
+            <Title>Character name</Title>
+            <Synopsis>Individuals that affect, or are effected by, the story.</Synopsis>
+            <Notes>In the first two steps of the Snowflake method, you’ve worked out a high-level view of your novel. Now you need something similar for the storylines of each of your characters. Characters are the most important part of any novel, and the time you invest in designing them up front will pay off ten-fold when you start writing. For each of your major characters, take an hour and write a one-page summary sheet that tells: 
+The character’s name 
+The character’s Ambition (what does he/she want abstractly?) 
+The character’s Storygoal (what does he/she want concretely?) 
+The character’s conflict (what prevents him/her from reaching this goal?) 
+The character’s epiphany (what will he/she learn, how will he/she change? 
+A one-sentence summary of the character’s Storyline 
+A one-paragraph summary of the character’s storyline 
+An important point: You may find that you need to go back and revise your one-sentence summary and/or your one-paragraph summary. Go ahead! This is good — it means your characters are teaching you things about your story. It’s always okay at any stage of the design process to go back and revise earlier stages. In fact, it’s not just okay — it’s inevitable. And it’s good. Any revisions you make now are revisions you won’t need to make later on to a clunky 400 page manuscript. 
+Another important point: It doesn’t have to be perfect. The purpose of each step in the design process is to advance you to the next step. Keep your forward momentum! You can always come back later and fix it when you understand the story better. You will do this too, unless you’re a lot smarter than I am. 
+If you’d like to see some examples of character definitions, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. You may also find it useful to study up on what makes a compelling character in chapter 7 of my book Writing Fiction for Dummies. </Notes>
+        </Document>
+        <Document ID="5B7D8DB7-BEE3-47B7-A1A6-244F49FCE909">
+            <Title>Blank Page</Title>
+            <Text>&lt;$BLANK_PAGE&gt;</Text>
+            <Notes>During Compile, Scrivener will try to remove any unnecessary blank pages. The &lt;$BLANK_PAGE&gt; tag tells Scrivener to leave this page blank (the tag itself will be removed from the compiled document).</Notes>
+        </Document>
+        <Document ID="5CFE6582-CAB8-4B67-9766-8A0CD24B5B3F">
+            <Title>Character</Title>
+        </Document>
+        <Document ID="662E516C-4D1C-4848-AE3D-572325302186">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+Your dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="7B8015AC-6C65-4C1B-B91F-9276E27A40A2">
+            <Title>Deleted scenes-1</Title>
+        </Document>
+        <Document ID="8B3F4093-15D5-4B06-BC10-2E14C9EE0F7E">
+            <Title>Define the Authors </Title>
+            <Synopsis>Create one page per author </Synopsis>
+            <Text>Define the Authors 
+
+
+
+
+Name:
+
+Address:
+
+Phone:
+
+E-mail:
+
+Bio:
+
+</Text>
+        </Document>
+        <Document ID="8E552E62-DC9F-4CE1-A665-072EC64A0BAD">
+            <Title>Chapter 1</Title>
+            <Synopsis>Create a spreadsheet and fill it with all the scenes that you can come up with from your four-page outline.
+
+(One line for each scene.)
+
+In one column add from which POV the scene is told, in another column tell what happens.
+
+Add more columns as you see fit.
+</Synopsis>
+        </Document>
+        <Document ID="927759F5-8988-4C05-A5BA-E0430145BD91">
+            <Title>Location</Title>
+            <Text>Summary
+Location summary. 
+
+
+Setting Detail
+Overall Feeling: 
+
+Sights: 
+
+Sounds: 
+
+Smells: 
+</Text>
+        </Document>
+        <Document ID="946C3E74-C424-4ECB-9916-7E437829EC90">
+            <Title>Locations</Title>
+            <Synopsis>Planets, countries, cities, bars, taxis and fast food joints; anywhere that a scene may take place.</Synopsis>
+        </Document>
+        <Document ID="9B71C238-E133-4C02-B87B-17A408E7371F">
+            <Title>Basic plan</Title>
+        </Document>
+        <Document ID="9F4EF1D4-D16F-45C5-A04C-3AECC2806DA3">
+            <Title>Scene</Title>
+            <Text>Sentence Summary 
+
+Expected Pages 
+
+Expected Words 
+
+Actual words 
+
+Chapter 
+
+Person 
+
+POV 
+
+Event ? 
+
+Time 
+
+Conflict 
+
+Information 
+
+Feelings 
+
+Leads to 
+
+
+</Text>
+        </Document>
+        <Document ID="A3ACD81B-3427-46FC-B748-25DB8CC24F51">
+            <Title>Copyright</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © &lt;$year&gt; &lt;$author&gt;
+All rights reserved.
+ISBN:
+ISBN-13:
+</Text>
+            <Notes>Feel free to delete this document if you don’t need it, or edit it for your needs.</Notes>
+        </Document>
+        <Document ID="A63F942F-B274-4F6B-BEC4-A97ECA2435E7">
+            <Title>Step 5: Character Stories</Title>
+            <Synopsis>Write a one-page description of each of the main characters and a half-page description for less important characters.
+
+The purpose here is to tell the story from the point of view of that character. </Synopsis>
+            <Notes>Take a day or two and write up a one-page description of each major character and a half-page description of the other important characters. These “character synopses” should tell the story from the point of view of each character. 
+As always, feel free to cycle back to the earlier steps and make revisions as you learn cool stuff about your characters. I usually enjoy this step the most. I find it effective to put the resulting “character synopses” into my proposals in addition to a plot-based synopsis. 
+Editors love character synopses, because editors love character-based fiction. 
+If you’d like to see some examples of character synopses, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. </Notes>
         </Document>
         <Document ID="A831B431-E16D-40B5-A2B8-E1BABE6B9440">
             <Title>Deleted scenes</Title>
         </Document>
+        <Document ID="B15BCA90-73C9-4CDE-BD55-83CA5F48AA66"/>
+        <Document ID="B70C366C-7DE9-437F-ACC7-3033751AE19E">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+
+&lt;$author&gt;</Text>
+            <Notes>These tags get replaced with the information set in the Metadata pane of Compile. Alternatively, you can simply replace this text altogether.</Notes>
+        </Document>
+        <Document ID="B7762F12-7070-4137-9D08-D49DABE776C7">
+            <Title>Character name</Title>
+        </Document>
+        <Document ID="BFFECC4D-C325-4F54-8F1E-A3C7421FFC77">
+            <Title>Step 6: Expand Plot</Title>
+            <Synopsis>Take your one-page plot synopsis and turn each paragraph from Step 4 into a whole page so that you end up with 4 pages in total.</Synopsis>
+            <Notes>By now, you have a solid story and several story-threads, one for each character. 
+Now take a week and expand the short synopsis of the novel to a long synopsis of about four pages. Basically, you will again be expanding each paragraph from Step 4 into a full page. This is a lot of fun, because you are figuring out the high-level logic of the story and making strategic decisions. 
+Here, you will definitely want to cycle back and fix things in the earlier steps as you gain insight into the story and new ideas whack you in the face. 
+If you’d like to see some examples of long synopses, look at the example Snowflakes included in Snowflake Pro. You can reach these from the File menu which has a submenu named Open Examples. I have a thorough discussion on writing synopses in chapter 9 of my book Writing Fiction for Dummies. </Notes>
+        </Document>
+        <Document ID="C0A42B95-D6C2-4616-96C8-F7B08C586286">
+            <Title>Major events</Title>
+            <Synopsis>Notes regarding events that have, or will at some point, affect the story. Also, notes on scenes/events in the current manuscript.</Synopsis>
+        </Document>
+        <Document ID="C38CC831-0055-4BBA-90F7-7AA14AD60F10">
+            <Title>Snowflake Project</Title>
+        </Document>
+        <Document ID="C630CD39-50F0-4AA0-B110-8C0AA61E5ADD">
+            <Title>Step 9: (Optional) Expand Scenes</Title>
+            <Notes>(Optional. I don’t do this step anymore.) Switch back to your word processor and begin writing a narrative description of the story. Take each line of the spreadsheet and expand it to a multi-paragraph description of the scene. Put in any cool lines of dialogue you think of, and sketch out the essential conflict of that scene. If there’s no conflict, you’ll know it here and you should either add conflict or scrub the scene.
+I used to write either one or two pages per chapter, and I started each chapter on a new page. Then I just printed it all out and put it in a loose-leaf notebook, so I could easily swap chapters around later or revise chapters without messing up the others. This process usually took me a week and the end result was a massive 50-page printed document that I would revise in red ink as I wrote the first draft. All my good ideas when I woke up in the morning got hand-written in the margins of this document. This, by the way, is a rather painless way of writing that dreaded detailed synopsis that all writers seem to hate. But it’s actually fun to develop, if you have done steps (1) through (8) first. When I did this step, I never showed this synopsis to anyone, least of all to an editor — it was for me alone. I liked to think of it as the prototype first draft. Imagine writing a first draft in a week! Yes, you can do it and it’s well worth the time. But I’ll be honest, I don’t feel like I need this step anymore, so I don’t do it now.</Notes>
+        </Document>
+        <Document ID="C787F14D-0409-4360-9353-21FBF01B2DEC">
+            <Title>Profile</Title>
+            <Text>Name, Title/rank
+AKA
+
+Summary
+A one-paragraph summary of the character's storyline, motivation and description. Loosely based on what you will write from the snowflake steps. 
+
+One-sentence summary
+A one-sentence summary of the character's storyline
+
+Motivation
+The character's motivation (what does he/she want abstractly?)
+
+Goal
+The character's goal (what does he/she want concretely?)
+
+Conflict
+The character's conflict (what prevents him/her from reaching this goal?)
+
+Epiphany
+The character's epiphany (what will he/she learn, how will he/she change?
+ 	
+
+Basics
+
+
+Age
+Gender
+Species
+Height
+Hair colour
+Complexion
+Nationality
+
+
+
+
+
+
+
+Date of birth
+Place of birth
+Race/subspecies
+Weight
+Eye colour
+Handedness
+Ethnic group
+
+
+
+
+
+Right/left
+
+
+
+Family
+
+
+Marital status
+Spouse(s)/partner(s)
+Children
+Biological father
+Biological mother
+Siblings
+
+
+
+
+
+
+
+
+Social
+
+
+Citizenship
+Social status
+Job/career
+Position/role
+Rank
+
+
+Fugitive, criminal, up-standing member of the public, etc.
+
+
+
+
+
+
+Skills, hobbies, talents and languages
+
+
+Skills
+Hobbies
+Talents/gifts
+
+Languages
+
+
+
+
+
+
+
+Physical description
+Physical description.
+
+Personality
+Character’s personality.
+
+Likes/dislikes
+Character’s likes, dislikes and pet peeves.
+
+Personal history
+Character’s personal history.</Text>
+        </Document>
+        <Document ID="CD08224D-1D90-4BEF-B7D2-6C346100324A">
+            <Title>Step 3: Characters</Title>
+            <Synopsis>Individuals that affect, or are effected by, the story.</Synopsis>
+            <Notes>For each characters take one hour and write a character sheet that contains the following information:
+- name
+- one-sentence summary of character’s storyline
+- motivation
+- goal
+- conflict (prevents him/her from reaching goal)
+- epiphany (what the character learns about him/herself, how he/she changes)
+- one-paragraph summary </Notes>
+        </Document>
+        <Document ID="CFDA9732-C92E-482E-972B-7DAE17A4D68D">
+            <Title>Welcome</Title>
+            <Text>Good fiction doesn't just happen, it is designed. You can do the design work before or after you write your novel. I've done it both ways and I've found that doing it first is quicker and leads to a better result for me. But you may find that doing your design after you write your novel works better for you. It doesn't really matter when you do your design work, as long as you do it. Design is hard work, so it's important to find a guiding principle early on. This software uses a powerful metaphor to guide your design.
+
+- Randy Ingermanson</Text>
+        </Document>
         <Document ID="CFF4D41C-8E9E-44F3-B511-1CE17D489B1E">
             <Title>Template to do list</Title>
-            <Text>Template sheets
-City
-Updated Location sheet
-Guild/company
-Religious group
+        </Document>
+        <Document ID="D0791580-FA22-4186-87D2-44A712451A8A">
+            <Title>Step 8: Scenes</Title>
+            <Synopsis>Create a spreadsheet and fill it with all the scenes that you can come up with from your four-page outline.
 
-References
-http://www.fantasymaps.com/101/
-http://www.oneofus.co.uk/index.php/how_to/how_to_create_fantasy_worlds/
+(One line for each scene.)
+
+In one column add from which POV the scene is told, in another column tell what happens.
+
+Add more columns as you see fit.
+</Synopsis>
+            <Notes>You may or may not take a hiatus here, waiting for the book to sell. At some point, you’ve got to actually write the novel. Before you do that, there are a couple of things you can do to make that traumatic first draft easier. The first thing to do is to take that four-page synopsis and make a list of all the scenes that you’ll need to turn the story into a novel. And the easiest way to make that list is . . . with a spreadsheet.
+For some reason, this is scary to a lot of writers. Oh the horror. Deal with it. You learned to use a word-processor. Spreadsheets are easier. You need to make a list of scenes, and spreadsheets were invented for making lists. If you need some tutoring, buy a book. There are a thousand out there, and one of them will work for you. It should take you less than a day to learn the itty bit you need. It’ll be the most valuable day you ever spent. Do it.
+Make a spreadsheet detailing the scenes that emerge from your four-page plot outline. Make just one line for each scene. In one column, list the POV character. In another (wide) column, tell what happens. If you want to get fancy, add more columns that tell you how many pages you expect to write for the scene. A spreadsheet is ideal, because you can see the whole storyline at a glance, and it’s easy to move scenes around to reorder things.
+My spreadsheets usually wind up being over 100 lines long, one line for each scene of the novel. As I develop the story, I make new versions of my story spreadsheet. This is incredibly valuable for analyzing a story. It can take a week to make a good spreadsheet. When you are done, you can add a new column for chapter numbers and assign a chapter to each scene.</Notes>
+        </Document>
+        <Document ID="D2AD5F5D-3139-4956-8C63-ECA2761889C1">
+            <Title>Step 1: One-Sentence Summary</Title>
+            <Notes>Write a one-sentence summary of your story.
+
+The point here is to be short, precise, and find a sentence that encapsulates your story idea in one short sentence.
+
+It is the sentence that you can always come back to and everything that you write from this point on should be a fulfillment of the idea that is represented by this one sentence core idea.</Notes>
+        </Document>
+        <Document ID="D2D90AA1-E80E-4CCA-98F6-7AEECE20AA41">
+            <Title>Planet</Title>
+            <Text>Planet/satelite
+System, Sector/quadrant
+Controlling party/faction
+
+
+Class
+Type
+Satellites
+Native species
+Population
+
+
+
+
+
+Capital city
+Colours
+Symbol
+Government
+Affiliation(s)
+
+
+
+Feudal, caste, democracy, etc
+
+
+
+Major cities
+City (continent/region)
+Description
+
+Population
+Races 
+(The races that inhabit the area, whether or not they’re native.)
+
+Predominant religion(s)
+(Monotheism?  Pantheism?  Atheism? Name and describe them as needed.)
+
+Common physical characteristics
+(Common physical characteristics of long-term inhabitants and native peoples: skin colour, hair colour, build, dress)
+
+Culture
+Mannerisms
+(The likely way someone behaves if they’re from this place. Because believe me, a fur-wrapped barbarian behaves in a very different way than a Greek statesman.)
+
+Cuisine
+(What do people from this country eat every day?  On festival days?  As delicacies? Taboo?)
+
+Leisure
+(What do people here do in their spare time?  For fun?)
+
+Greetings
+(What is considered an acceptable greeting?  In formal setting?  Among friends? Family?)
+
+Customs
+(The habits of a people that make them unique.  Google it if you’re confused.)
+
+Superstitions
+(Knowing the power irrational explanations have over a populace can sometimes be good story material.)
+
+Beliefs
+(Do I really have to explain this one?  This alone can be your story.)
+
+Rituals
+(Birth? Coming-of-age?  Marriage?  Death?  Justice?)
+
+Festivals
+(What do people celebrate?  What are considered holidays?  Why?)
+
+Transport
+(How do people move things?  Armies?  Crowds?  Goods?  Animals?)
+
+Weather patterns
+(Tropical?  Stormy?  Cold?  Earthquakes?  Climate in general?)
+
+Resources
+(What does the planet export?  Import?  Make?  Is famous for?)
+
+History
+(Everyone comes from somewhere.  People just don’t up and appear on islands and such.  I mean, even Native Americans walked across a land bridge way back in the day. Europeans came from Romans and Greeks and Celts and Gauls and more.  Very few people bother to look at this aspect of world-building, and they really should.  Even if a civilization has been around for two thousand years and are elven dragon riders, they came from somewhere.  Even if their mythology says they crawled out of the earth: they came from somewhere.  Examine it!)
 
 </Text>
+            <Notes>Adapted from Droemar’s article “5 Tips: World-Building Template”.
+
+http://droemar.deviantart.com/journal/5-Tips-World-Building-Template-224630229
+
+All comments in brackets are theirs.</Notes>
+        </Document>
+        <Document ID="D55A604E-75C7-4A64-9CE2-FA4988AACC36">
+            <Title>Character</Title>
+        </Document>
+        <Document ID="DAEAA4DD-A136-4321-AB92-2875DF68E57A">
+            <Title>Ebook</Title>
+        </Document>
+        <Document ID="DF2639EF-D7A9-47EA-8417-D05EAF64D91B">
+            <Title>Export Project Templates</Title>
+            <Notes>Note that in the “Metadata” pane of the Inspector, under “Section Type”, the “Default Subdocument Type” is set to “Front Matter”. This setting causes all subdocuments of this folder to use the “Front Matter” section type by default (that is, when “Structure-Based” is selected as the section type).
+
+This saves us from having to manually assign the “Front Matter” section type for each document we place into this folder.
+
+During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
         <Document ID="E7840B0D-BEBE-45FB-91D7-7C74AD915E40">
             <Title>Acknowledgments</Title>
@@ -59,6 +830,18 @@ Project template
 Snowflake template by Roelani from WordInProgress.com(http://wordinprogress.com/2010/04/technology/scrivener-tutorial-how-i-write)
 
 </Text>
+        </Document>
+        <Document ID="E84A1051-9240-4E8F-8B74-110EE30FF25E">
+            <Title>Synopsis</Title>
+            <Notes>Snowflake method – Step 5
+
+Write a character synopsis that tells the story from the point of view of the character.
+
+Major characters
+one page or 600 words
+
+Minor characters
+half a page or 300 words</Notes>
         </Document>
         <Document ID="F0607CA9-E345-48A0-BAB3-FAC6C7665B52">
             <Text>
@@ -82,6 +865,200 @@ Snowflake template by Roelani from WordInProgress.com(http://wordinprogress.com
 
 
 </Text>
+        </Document>
+        <Document ID="F090CA00-8172-44EE-881C-79DAACDE90E9">
+            <Title>Step 7: Expand Characters</Title>
+            <Synopsis>Turn your character descriptions into full-fledged character charts with all the necessary details such as birthday, hair color, what not.
+
+Most importantly focus on the character change here.</Synopsis>
+            <Text>
+Character Arc: 
+The First Impression
+
+Appearance: 
+Impression: 
+Character: 
+Luck: 
+
+
+Demeanor
+
+Attitude: 
+Clothing: 
+Language/Voice: 
+Jewellery: 
+Always carries: 
+Characteristics: 
+
+
+Motivation
+
+Meaning of life: 
+Long-term goals: 
+Short-term goals: 
+Dreams: 
+
+
+Internal conflict
+
+Character Traits
+
+Status
+
+Occupation: 
+Social: 
+Income: 
+Socially: 
+
+
+Body
+
+Age: 
+Body hair: 
+Size: 
+Hair color: 
+Weight: 
+Hairstyle: 
+Physique: 
+Eye color: 
+Reaction: 
+Face: 
+Strength: 
+Characteristics: 
+Skin: 
+Impression: 
+
+Spirit
+
+Logic: 
+Willpower: 
+Intuition: 
+Persuasiveness: 
+
+
+Likes VS Dislikes
+
+Traits: 
+Interests: 
+Favorite: 
+Moral: 
+Eat: 
+Aversions: 
+Entertainment: 
+Hobbies: 
+
+
+Friends and family
+
+Mother: 
+Friends: 
+Father: 
+Partner: 
+Sibling: 
+Other: 
+
+
+Foes
+
+Opponent:
+
+Unpleasant:
+
+Neutral:
+
+
+ 
+
+Abilities (mind and body)
+
+Great:
+
+Very good:
+
+Good:
+
+Okay:
+
+Average:
+
+Partially.
+
+Not all:
+
+Incapable:
+
+
+Living Accomodations
+
+
+
+Typical places
+
+
+
+
+
+Past
+Facts
+
+
+Birthday:
+
+Birth place:
+
+Residence:
+
+
+
+ 
+Changes
+
+
+Childhood: 
+
+Adolescent: 
+
+Adult: 
+
+
+ 
+
+Knowledge
+
+
+School/Education: 
+
+Occupation: 
+
+Hobbies: 
+
+Teacher: 
+
+
+
+
+Social Circal 
+
+
+Former friends: 
+
+Ex-Partner: 
+
+Previous enemies: 
+
+
+
+
+
+
+</Text>
+            <Notes> Take another week and expand your character descriptions into full-fledged character charts detailing everything there is to know about each character. The standard stuff such as birthdate, description, history, motivation, goal, etc. Most importantly, how will this character change by the end of the novel? This is an expansion of your work in step (3), and it will teach you a lot about your characters. You will probably go back and revise steps (1-6) as your characters become “real” to you and begin making petulant demands on the story. This is good — great fiction is character-driven. Take as much time as you need to do this, because you’re just saving time downstream. When you have finished this process, (and it may take a full month of solid effort to get here), you have most of what you need to write a proposal. If you are a published novelist, then you can write a proposal now and sell your novel before you write it. If you’re not yet published, then you’ll need to write your entire novel first before you can sell it. No, that’s not fair, but life isn’t fair and the world of fiction writing is especially unfair. </Notes>
+        </Document>
+        <Document ID="F11DF8C7-7369-4F33-9066-ADC0F3678F7D">
+            <Title>Authors</Title>
+        </Document>
+        <Document ID="F87A7377-F54C-4EE1-809F-373902E26241">
+            <Title>Ideas</Title>
         </Document>
     </Documents>
 </SearchIndexes>

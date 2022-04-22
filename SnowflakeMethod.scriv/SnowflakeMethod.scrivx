@@ -1,80 +1,659 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="00311662-9040-4687-BFCF-D4711468BCDE" Creator="SCRWIN-3.1.1.0" Device="GlassHoryzen" Modified="2022-04-21 14:18:12 +0200" ModID="530EC0C8-DCE1-47D9-A96C-C2ED8503596F">
+<ScrivenerProject Template="No" Version="2.0" Identifier="00311662-9040-4687-BFCF-D4711468BCDE" Creator="SCRWIN-3.1.1.0" Device="GlassHoryzen" Modified="2022-04-22 19:53:25 +0200" ModID="2C0D0D80-4F59-48C2-854C-EC286FD42B4E">
     <Binder>
-        <BinderItem UUID="E7840B0D-BEBE-45FB-91D7-7C74AD915E40" Type="Text" Created="2022-04-21 14:15:04 +0200" Modified="2022-04-21 14:18:10 +0200">
-            <Title>Acknowledgments</Title>
+        <BinderItem UUID="029CB053-B6DD-4918-AD0F-4338574A92B9" Type="Folder" Created="2022-04-21 14:24:44 +0200" Modified="2022-04-21 20:32:37 +0200">
+            <Title>Project Notes</Title>
             <MetaData>
-                <LabelID>8</LabelID>
-                <StatusID>6</StatusID>
-                <IconFileName>Reviewer Comments.tiff</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>396,0</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="3D492E82-6B94-4C98-871D-CF855D5725DE" Type="Text" Created="2022-04-21 14:14:15 +0200" Modified="2022-04-21 14:14:15 +0200">
-            <Title>Template notes</Title>
-            <MetaData>
-                <LabelID>6</LabelID>
-                <StatusID>6</StatusID>
                 <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>25,1</TextSelection>
-            </TextSettings>
-        </BinderItem>
-        <BinderItem UUID="CFF4D41C-8E9E-44F3-B511-1CE17D489B1E" Type="Text" Created="2022-04-21 14:14:15 +0200" Modified="2022-04-21 14:14:15 +0200">
-            <Title>Template to do list</Title>
-            <MetaData>
-                <LabelID>7</LabelID>
-                <StatusID>6</StatusID>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>To Do (Ticked)</IconFileName>
             </MetaData>
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <Children>
+                <BinderItem UUID="E7840B0D-BEBE-45FB-91D7-7C74AD915E40" Type="Text" Created="2022-04-21 14:15:04 +0200" Modified="2022-04-21 14:18:10 +0200">
+                    <Title>Acknowledgments</Title>
+                    <MetaData>
+                        <LabelID>8</LabelID>
+                        <StatusID>6</StatusID>
+                        <IconFileName>Reviewer Comments.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>396,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3D492E82-6B94-4C98-871D-CF855D5725DE" Type="Text" Created="2022-04-21 14:14:15 +0200" Modified="2022-04-21 14:24:32 +0200">
+                    <Title>Template notes</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>642,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CFF4D41C-8E9E-44F3-B511-1CE17D489B1E" Type="Text" Created="2022-04-21 14:14:15 +0200" Modified="2022-04-21 14:26:05 +0200">
+                    <Title>Template to do list</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
-        <BinderItem UUID="5EC42F2B-4446-4C92-B5E4-16973BCFDE72" Type="DraftFolder" Created="2022-04-20 20:28:46 +0200" Modified="2022-04-20 20:28:46 +0200">
-            <Title>Draft</Title>
+        <BinderItem UUID="C38CC831-0055-4BBA-90F7-7AA14AD60F10" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-21 14:39:14 +0200">
+            <Title>Snowflake Project</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>{❄️}</IconFileName>
+                <SectionType>E26A4392-1C40-4A29-B35E-EDF17D8830FD</SectionType>
             </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
             <Children>
-                <BinderItem UUID="F0607CA9-E345-48A0-BAB3-FAC6C7665B52" Type="Text" Created="2022-04-20 20:28:46 +0200" Modified="2022-04-20 20:37:31 +0200">
+                <BinderItem UUID="17BA66F4-11F0-48BF-AB2A-068AD3B8D335" Type="Folder" Created="2022-04-21 19:00:58 +0200" Modified="2022-04-21 19:01:03 +0200">
+                    <Title>Preliminary Stage</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>19,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="CFDA9732-C92E-482E-972B-7DAE17A4D68D" Type="Text" Created="2022-04-21 14:47:52 +0200" Modified="2022-04-21 14:51:44 +0200">
+                            <Title>Welcome</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>526,19</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3735C575-E2D0-4065-BEAF-ED155FF79304" Type="Text" Created="2022-04-21 14:51:56 +0200" Modified="2022-04-21 19:03:35 +0200">
+                            <Title>Project</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>123,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F11DF8C7-7369-4F33-9066-ADC0F3678F7D" Type="Folder" Created="2022-04-21 18:43:50 +0200" Modified="2022-04-21 18:43:52 +0200">
+                            <Title>Authors</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="8B3F4093-15D5-4B06-BC10-2E14C9EE0F7E" Type="Text" Created="2022-04-21 19:01:32 +0200" Modified="2022-04-21 19:04:12 +0200">
+                                    <Title>Define the Authors </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>64,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D2AD5F5D-3139-4956-8C63-ECA2761889C1" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-21 14:32:16 +0200">
+                    <Title>Step 1: One-Sentence Summary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{△}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>351,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0231A602-DCCF-4808-B769-145E6F873D55" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-21 14:32:16 +0200">
+                    <Title>Step 2: One paragraph</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{◻︎}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>279,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CD08224D-1D90-4BEF-B7D2-6C346100324A" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-21 20:25:41 +0200">
+                    <Title>Step 3: Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{◇}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>328,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="5B4EE125-908A-4B29-8BBE-D26323EC162A" Type="Folder" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-22 19:44:00 +0200">
+                            <Title>Character name</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>6</StatusID>
+                                <IconFileName>Characters (Mask).tiff</IconFileName>
+                                <NotesTextSelection>402,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="C787F14D-0409-4360-9353-21FBF01B2DEC" Type="Text" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-22 19:43:20 +0200">
+                                    <Title>Profile</Title>
+                                    <MetaData>
+                                        <LabelID>11</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1112,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="29D4E0E2-5011-41AE-9C4D-1ACE971A49D0" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:42:08 +0200">
+                    <Title>Step 4: Grow the Story</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{✩}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>814,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A63F942F-B274-4F6B-BEC4-A97ECA2435E7" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:40:54 +0200">
+                    <Title>Step 5: Character Stories</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{✶}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>786,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="330AFD0A-2738-4B6D-BF87-45EAE0BE829E" Type="Folder" Created="2022-04-22 17:44:35 +0200" Modified="2022-04-22 17:44:47 +0200">
+                            <Title>Character name</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>6</StatusID>
+                                <IconFileName>Characters (Mask).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E84A1051-9240-4E8F-8B74-110EE30FF25E" Type="Text" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-21 19:13:38 +0200">
+                                    <Title>Synopsis</Title>
+                                    <MetaData>
+                                        <LabelID>12</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IconFileName>Notes (White Notepad).tiff</IconFileName>
+                                        <NotesTextSelection Caret="198">27,171</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                        <Target Type="Words" Notify="Yes">600</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="BFFECC4D-C325-4F54-8F1E-A3C7421FFC77" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:40:01 +0200">
+                    <Title>Step 6: Expand Plot</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{✷}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>453,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F090CA00-8172-44EE-881C-79DAACDE90E9" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 19:47:29 +0200">
+                    <Title>Step 7: Expand Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{✸}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>1137,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>118,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B7762F12-7070-4137-9D08-D49DABE776C7" Type="Folder" Created="2022-04-22 19:47:48 +0200" Modified="2022-04-22 19:48:05 +0200">
+                            <Title>Character name</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="111EC813-7435-4BA4-A1B6-CC5B15A88A56" Type="Text" Created="2022-04-22 19:48:08 +0200" Modified="2022-04-22 19:52:29 +0200">
+                                    <Title>Full Description</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1341,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D0791580-FA22-4186-87D2-44A712451A8A" Type="Folder" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 18:07:37 +0200">
+                    <Title>Step 8: Scenes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{✹}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="8E552E62-DC9F-4CE1-A665-072EC64A0BAD" Type="Folder" Created="2022-04-22 18:04:57 +0200" Modified="2022-04-22 18:12:05 +0200">
+                            <Title>Chapter 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Clapper Board</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="9F4EF1D4-D16F-45C5-A04C-3AECC2806DA3" Type="Text" Created="2022-04-22 18:09:28 +0200" Modified="2022-04-22 18:16:39 +0200">
+                                    <Title>Scene</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>157,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="C630CD39-50F0-4AA0-B110-8C0AA61E5ADD" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 17:57:34 +0200">
+                    <Title>Step 9: (Optional) Expand Scenes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{❅}</IconFileName>
+                        <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
+                        <NotesTextSelection>526,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3529C799-4326-45D3-A7DA-E5AF04F5C550" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 17:57:44 +0200">
+                    <Title>Step 10: Write It</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>{❄️}</IconFileName>
+                        <NotesTextSelection>343,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
+        </BinderItem>
+        <BinderItem UUID="5EC42F2B-4446-4C92-B5E4-16973BCFDE72" Type="DraftFolder" Created="2022-04-20 20:28:46 +0200" Modified="2022-04-22 17:53:32 +0200">
+            <Title>Proposal</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
         </BinderItem>
         <BinderItem UUID="81E559F3-F872-47B4-97A6-F42DFFBD9688" Type="ResearchFolder" Created="2022-04-20 20:28:46 +0200" Modified="2022-04-20 20:28:46 +0200">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="0539AF82-F916-4073-8E96-CC884700718E" Type="Folder" Created="2022-04-22 17:54:28 +0200" Modified="2022-04-22 17:54:28 +0200">
+                    <Title>Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Notes (Yellow Notepad)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2131D423-03C4-481E-8A96-DD2AA3C5542F" Type="Folder" Created="2022-04-21 20:32:55 +0200" Modified="2022-04-21 20:32:55 +0200">
+                    <Title>References</Title>
+                    <MetaData>
+                        <LabelID>19</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Blackboard.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F87A7377-F54C-4EE1-809F-373902E26241" Type="Folder" Created="2022-04-21 20:30:07 +0200" Modified="2022-04-21 20:30:07 +0200">
+                    <Title>Ideas</Title>
+                    <MetaData>
+                        <LabelID>13</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Light Bulb.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="9B71C238-E133-4C02-B87B-17A408E7371F" Type="Text" Created="2022-04-21 20:30:07 +0200" Modified="2022-04-21 20:30:07 +0200">
+                            <Title>Basic plan</Title>
+                            <MetaData>
+                                <LabelID>14</LabelID>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Thought Bubble.tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="946C3E74-C424-4ECB-9916-7E437829EC90" Type="Folder" Created="2022-04-21 20:32:50 +0200" Modified="2022-04-21 20:32:50 +0200">
+                    <Title>Locations</Title>
+                    <MetaData>
+                        <LabelID>17</LabelID>
+                        <StatusID>6</StatusID>
+                        <IconFileName>Locations (Map).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="927759F5-8988-4C05-A5BA-E0430145BD91" Type="Text" Created="2022-04-21 20:32:50 +0200" Modified="2022-04-21 20:32:50 +0200">
+                            <Title>Location</Title>
+                            <MetaData>
+                                <LabelID>18</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>92,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="250736B3-05F7-433A-99E1-424983451B84" Type="Text" Created="2022-04-21 20:34:27 +0200" Modified="2022-04-21 20:34:27 +0200">
+                            <Title>Setting Sketch</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Locations (Location Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,15</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="C0A42B95-D6C2-4616-96C8-F7B08C586286" Type="Folder" Created="2022-04-21 20:32:47 +0200" Modified="2022-04-21 20:32:47 +0200">
+                    <Title>Major events</Title>
+                    <MetaData>
+                        <LabelID>16</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Way-Station (Blue Way-Station).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="4F9E94BC-C1BB-4466-9C7F-6696B4D04C6A" Type="TrashFolder" Created="2022-04-20 20:28:46 +0200" Modified="2022-04-20 20:28:46 +0200">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-        </BinderItem>
-        <BinderItem UUID="A831B431-E16D-40B5-A2B8-E1BABE6B9440" Type="Folder" Created="2022-04-21 14:16:38 +0200" Modified="2022-04-21 14:16:38 +0200">
-            <Title>Deleted scenes</Title>
-            <MetaData>
-                <LabelID>9</LabelID>
-                <StatusID>6</StatusID>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Deleted scenes.png</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
+            <Children>
+                <BinderItem UUID="F0607CA9-E345-48A0-BAB3-FAC6C7665B52" Type="Text" Created="2022-04-20 20:28:46 +0200" Modified="2022-04-21 14:29:00 +0200">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>20,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5CFE6582-CAB8-4B67-9766-8A0CD24B5B3F" Type="Folder" Created="2022-04-21 19:05:16 +0200" Modified="2022-04-21 19:05:19 +0200">
+                    <Title>Character</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D55A604E-75C7-4A64-9CE2-FA4988AACC36" Type="Text" Created="2022-04-21 19:06:07 +0200" Modified="2022-04-21 19:06:11 +0200">
+                    <Title>Character</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7B8015AC-6C65-4C1B-B91F-9276E27A40A2" Type="Folder" Created="2022-04-21 20:32:22 +0200" Modified="2022-04-21 20:32:22 +0200">
+                    <Title>Deleted scenes-1</Title>
+                    <MetaData>
+                        <LabelID>15</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Deleted scenes.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="14D16CA0-F8A1-4B96-A7EC-D54ABE9F899D" Type="Text" Created="2022-04-21 20:32:55 +0200" Modified="2022-04-21 20:32:55 +0200">
+                    <Title>Planetary classifications</Title>
+                    <MetaData>
+                        <LabelID>20</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>135,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>44,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D2D90AA1-E80E-4CCA-98F6-7AEECE20AA41" Type="Text" Created="2022-04-21 20:32:50 +0200" Modified="2022-04-21 20:32:50 +0200">
+                    <Title>Planet</Title>
+                    <MetaData>
+                        <LabelID>18</LabelID>
+                        <StatusID>0</StatusID>
+                        <IconFileName>Planets (Blue planet).tif</IconFileName>
+                        <NotesTextSelection>0,183</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>223,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A831B431-E16D-40B5-A2B8-E1BABE6B9440" Type="Folder" Created="2022-04-21 14:16:38 +0200" Modified="2022-04-21 14:16:38 +0200">
+                    <Title>Deleted scenes</Title>
+                    <MetaData>
+                        <LabelID>9</LabelID>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Deleted scenes.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2ECE04E8-F837-4AF2-BF73-C6932A9F6018" Type="Text" Created="2022-04-22 17:44:35 +0200" Modified="2022-04-22 17:44:35 +0200">
+                    <Title>Profile</Title>
+                    <MetaData>
+                        <LabelID>11</LabelID>
+                        <StatusID>0</StatusID>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>99,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DF2639EF-D7A9-47EA-8417-D05EAF64D91B" Type="Folder" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:38:02 +0200">
+                    <Title>Export Project Templates</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Front Matter</IconFileName>
+                        <NotesTextSelection>26,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="30749BB1-EF73-4110-B6B1-06D3724121F2" Type="Folder" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                            <Title>Manuscript Format</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="30141E83-90B8-466E-A7E6-1BA16C6EB21F" Type="Text" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 21:12:04 +0200">
+                                    <Title>Title Page</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>237,16</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>177,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="16B352A5-C214-4F19-B453-50F848D2D2D6" Type="Folder" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                            <Title>Paperback</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B70C366C-7DE9-437F-ACC7-3033751AE19E" Type="Text" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                                    <Title>Title Page</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A3ACD81B-3427-46FC-B748-25DB8CC24F51" Type="Text" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                                    <Title>Copyright</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>82,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>12,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1D584A09-2D1A-4E4A-8C41-51C329E5D38B" Type="Text" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                                    <Title>Dedication</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>55,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>11,23</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5B7D8DB7-BEE3-47B7-A1A6-244F49FCE909" Type="Text" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                                    <Title>Blank Page</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>197,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,13</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="DAEAA4DD-A136-4321-AB92-2875DF68E57A" Type="Folder" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                            <Title>Ebook</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="15F76DF0-4631-40EF-B4C8-ED4ACF4CB9F2" Type="Image" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                                    <Title>Cover</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScaleFactor>1</ImageScaleFactor>
+                                        <ImageRotation>None</ImageRotation>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem UUID="662E516C-4D1C-4848-AE3D-572325302186" Type="Text" Created="2022-04-21 20:35:08 +0200" Modified="2022-04-21 20:35:08 +0200">
+                                    <Title>Dedication</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>55,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5,21</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="B15BCA90-73C9-4CDE-BD55-83CA5F48AA66" Type="Folder" Created="2022-04-22 19:47:56 +0200" Modified="2022-04-22 19:47:56 +0200">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -119,6 +698,17 @@
             <Label ID="7" Color="1.000000 1.000000 1.000000">No Label</Label>
             <Label ID="8" Color="1.000000 1.000000 1.000000">No Label</Label>
             <Label ID="9" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="10" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="11" Color="0.981353 0.491722 0.000000">Character</Label>
+            <Label ID="12" Color="0.434867 0.500313 0.280003">Synopsis</Label>
+            <Label ID="13" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="14" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="15" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="16" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="17" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="18" Color="0.956558 0.000000 0.000000">Locations</Label>
+            <Label ID="19" Color="1.000000 1.000000 1.000000">No Label</Label>
+            <Label ID="20" Color="1.000000 1.000000 1.000000">No Label</Label>
         </Labels>
     </LabelSettings>
     <StatusSettings>
@@ -138,13 +728,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-04-20 20:28:46 +0200" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="12" Characters="162" Date="2022-04-21 14:18:12 +0200"/>
+        <PreviousSession Words="280" Characters="2691" Date="2022-04-22 19:53:25 +0200"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-04-21 00:00:00 +0200">
+    <RecentWritingHistory Date="2022-04-22 00:00:00 +0200">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-38</OtherWordCount>
-        <OtherCharCount>-304</OtherCharCount>
+        <OtherWordCount>280</OtherWordCount>
+        <OtherCharCount>2691</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Landscape" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
