@@ -26,17 +26,16 @@ If you’d like to see some examples of one-paragraph summaries, look at the ex
         </Document>
         <Document ID="111EC813-7435-4BA4-A1B6-CC5B15A88A56">
             <Title>Full Description</Title>
-            <Text>Schriftsteller-werden.de                                                                                Charakterbogen
-Side 1 from 3
+            <Text>
 Character Arc of: 
-Schriftsteller-werden.de
-Jacqueline Vellguth
+
 The First Impression
 
 Appearance: 
-Effect: 
+Impression: 
 Character: 
 Luck: 
+
 
 
 Appear
@@ -52,12 +51,14 @@ Characteristics:
 Motivation
 
 Meaning of life: 
-Long-distance destinations: 
-Nahziele: 
+Long-term goals: 
+Short-term goals: 
 Dreams: 
 
 
+
 Internal conflict
+
 
 Charaktermerkmale
 
@@ -66,7 +67,9 @@ Status
 Occupation: 
 Social: 
 Income: 
-Social: 
+Socially: 
+
+
 
 
 Body
@@ -76,7 +79,7 @@ Body hair:
 Size: 
 Hair color: 
 Weight: 
-Hairdo: 
+Hair style: 
 Physique: 
 Eye color: 
 Reaction: 
@@ -85,6 +88,7 @@ Starch:
 Characteristics: 
 High: 
 Effect: 
+
 
 Spirit
 
@@ -106,6 +110,7 @@ Entertainment:
 Hobbies: 
 
 
+
 Friends and family
 
 Mother: 
@@ -117,20 +122,38 @@ Other:
 
 
 Foes
+
 Opponent: 
+
 Unpleasant: 
-Neutren: 
+
+Neutrals:
+
+
+ 
 
 Abilities (mind and body)
-That's great: 
-Very good: 
-Good: 
-Okay: 
-Medium: 
-Somewhat: 
+
+Great:
+
+Very good:
+
+Good:
+
+Medium:
+
+Somewhat:
+
 A little bit: 
-Not at all: 
-Incapable: 
+
+Not at all:
+
+Incapable:
+
+
+
+
+
 Apartment
 
 
@@ -140,31 +163,59 @@ Typical places
 
 
 
-
 Past
+
 Facts
-Birthday: 
-Place of birth: 
-Residence: 
+
+Birthday:
+
+Place of birth:
+
+Residence:
+
+
+ 
 
 Changes
-Childhood: 
-Adolescent: 
 
-Adult: 
+
+Childhood:
+
+Adolescent:
+
+Adult:
+
+
 
 
 Know
+
+
 School/Education: 
+
 Occupation: 
+
 Hobbies: 
+
 Teacher: 
 
+
+
+ 
+
 Social environment
+
+
 Former friends: 
+
 Ex-Partner: 
+
 Previous enemies: 
 
+
+
+
+ 
 </Text>
         </Document>
         <Document ID="14D16CA0-F8A1-4B96-A7EC-D54ABE9F899D">

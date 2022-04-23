@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="00311662-9040-4687-BFCF-D4711468BCDE" Creator="SCRWIN-3.1.1.0" Device="GlassHoryzen" Modified="2022-04-22 20:18:51 +0200" ModID="4DC35E09-2C7E-4EFC-A01E-5976744ED24E">
+<ScrivenerProject Template="No" Version="2.0" Identifier="00311662-9040-4687-BFCF-D4711468BCDE" Creator="SCRWIN-3.1.1.0" Device="GlassHoryzen" Modified="2022-04-23 14:16:34 +0200" ModID="3972CC9A-33F7-4ECD-9958-3EC8F1B12113">
     <Binder>
         <BinderItem UUID="029CB053-B6DD-4918-AD0F-4338574A92B9" Type="Folder" Created="2022-04-21 14:24:44 +0200" Modified="2022-04-21 20:32:37 +0200">
             <Title>Project Notes</Title>
@@ -110,6 +110,41 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="946C3E74-C424-4ECB-9916-7E437829EC90" Type="Folder" Created="2022-04-21 20:32:50 +0200" Modified="2022-04-21 20:32:50 +0200">
+                            <Title>Locations</Title>
+                            <MetaData>
+                                <LabelID>17</LabelID>
+                                <StatusID>6</StatusID>
+                                <IconFileName>Locations (Map).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="927759F5-8988-4C05-A5BA-E0430145BD91" Type="Text" Created="2022-04-21 20:32:50 +0200" Modified="2022-04-21 20:32:50 +0200">
+                                    <Title>Location</Title>
+                                    <MetaData>
+                                        <LabelID>18</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>92,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="250736B3-05F7-433A-99E1-424983451B84" Type="Text" Created="2022-04-21 20:34:27 +0200" Modified="2022-04-21 20:34:27 +0200">
+                                    <Title>Setting Sketch</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>29,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="D2AD5F5D-3139-4956-8C63-ECA2761889C1" Type="Text" Created="2022-04-21 14:32:16 +0200" Modified="2022-04-22 20:11:03 +0200">
@@ -142,7 +177,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <IconFileName>{◇}</IconFileName>
                         <SectionType>A03325B6-9954-4D5E-8EE9-106266A9555A</SectionType>
-                        <NotesTextSelection Caret="1946">0,1946</NotesTextSelection>
+                        <NotesTextSelection>1307,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
@@ -168,7 +203,7 @@
                                         <IconFileName>Characters (Photo).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection Caret="700">571,129</TextSelection>
+                                        <TextSelection>636,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -209,6 +244,12 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>E84A1051-9240-4E8F-8B74-110EE30FF25E</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem UUID="E84A1051-9240-4E8F-8B74-110EE30FF25E" Type="Text" Created="2022-04-21 19:13:38 +0200" Modified="2022-04-22 20:15:00 +0200">
                                     <Title>Synopsis</Title>
@@ -260,15 +301,21 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>111EC813-7435-4BA4-A1B6-CC5B15A88A56</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="111EC813-7435-4BA4-A1B6-CC5B15A88A56" Type="Text" Created="2022-04-22 19:48:08 +0200" Modified="2022-04-22 20:14:52 +0200">
+                                <BinderItem UUID="111EC813-7435-4BA4-A1B6-CC5B15A88A56" Type="Text" Created="2022-04-22 19:48:08 +0200" Modified="2022-04-23 14:16:32 +0200">
                                     <Title>Full Description</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <IconFileName>Characters (Character Sheet)</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1341,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -391,41 +438,6 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="946C3E74-C424-4ECB-9916-7E437829EC90" Type="Folder" Created="2022-04-21 20:32:50 +0200" Modified="2022-04-21 20:32:50 +0200">
-                    <Title>Locations</Title>
-                    <MetaData>
-                        <LabelID>17</LabelID>
-                        <StatusID>6</StatusID>
-                        <IconFileName>Locations (Map).tiff</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="927759F5-8988-4C05-A5BA-E0430145BD91" Type="Text" Created="2022-04-21 20:32:50 +0200" Modified="2022-04-21 20:32:50 +0200">
-                            <Title>Location</Title>
-                            <MetaData>
-                                <LabelID>18</LabelID>
-                                <StatusID>0</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Locations (Location Sheet).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>92,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="250736B3-05F7-433A-99E1-424983451B84" Type="Text" Created="2022-04-21 20:34:27 +0200" Modified="2022-04-21 20:34:27 +0200">
-                            <Title>Setting Sketch</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Locations (Location Sheet)</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>29,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -736,13 +748,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2022-04-20 20:28:46 +0200" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="355" Characters="3220" Date="2022-04-22 20:18:51 +0200"/>
+        <PreviousSession Words="1" Characters="43" Date="2022-04-23 14:16:34 +0200"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-04-22 00:00:00 +0200">
+    <RecentWritingHistory Date="2022-04-23 00:00:00 +0200">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>288</OtherWordCount>
-        <OtherCharCount>2808</OtherCharCount>
+        <OtherWordCount>-9</OtherWordCount>
+        <OtherCharCount>-139</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Landscape" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
